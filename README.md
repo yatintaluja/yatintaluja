@@ -1,37 +1,36 @@
-# 👋 Hello, World! I'm Yatin Taluja
+# 👋 I'm Yatin Taluja
 
-🔧 I'm currently working as the Director of Engineering at [Atlan](https://atlan.com), where I help keep the gears of innovation turning. 
+**Founder @ Moksh Ved | Infrastructure & Security Architect**
 
-## 🌐 My Journey 
+I am an engineer with 11+ years of experience building, scaling, and securing high-stakes infrastructure. After a decade of leading platform engineering from the ground up, I am now focused on **Moksh Ved**—a venture dedicated to engineering integrity and "truth-telling" in technical architecture.
 
-My career has been an exciting choose-your-own-adventure book. 📖 I've worn many hats, from crafting 📱 Android apps at the start of my tech journey, to taking up roles in Customer Support 🤝, Project Management 🗂️, and Engineering Leadership 🚀. I'm a proud orchestrator of tech solutions, problem-solver, listener, and resolver.
+---
 
-One highlight of my journey? I once built an app in a record-breaking 7 days! I felt like a caffeinated hacker in a movie montage. 💻⚡ 
+## 🎯 Current Focus: Moksh Ved
+I am building a boutique engineering practice centred on technical honesty. I help organisations move past the hype to build systems that are actually resilient, secure, and architecturally sound.
 
-## ☁️ My Work in the Cloud 
+* **Engineering Consulting:** Infrastructure audits, security hardening, and Kubernetes optimisation.
+* **Philosophy:** Prioritising intellectual rigour and directness over corporate consensus.
 
-Cloud platforms like AWS, Azure, and GCP have been trusty sidekicks in my journey. Kubernetes has been my loyal companion since 2015.
+## 🛠 Technical Expertise
+* **Infrastructure:** Kubernetes (early adopter since 2015), AWS, Azure, GCP.
+* **Security & Compliance:** Architected and achieved SOC2 Type 2 and HIPAA compliance; deep focus on DevSecOps and Zero Trust.
+* **Scale:** Proven track record of managing 100+ Kubernetes clusters and scaling platforms from zero to global operations.
 
-Stepping into the role of running Cloud at Atlan felt like a solo trek up a mountain. 🏔️ But the journey is never solo, is it? I've been able to build and nurture a team that ensures we reach the summit together.
+## 🚀 The Atlan Chapter (2014 – 2025)
+As a **Founding Engineer** and later **Director of Engineering**, I was responsible for the platform's architectural evolution.
+* Scaled the engineering team and infrastructure through every growth stage.
+* Defined and implemented the **Seven Pillars of Platform Engineering**.
+* Bridged the gap between high-level engineering leadership and deep, hands-on infrastructure security.
 
-Under my stewardship, we've achieved SOC2 Type 2 and HIPAA compliance and are now gearing up for GDPR and ISO27001. 🚀
+## 🌍 Philosophy & Values
+* **Truth over Agreement:** I value intellectual sparring and challenging assumptions to find the most robust solution.
+* **Minimalism:** "Keep it simple" isn't just a mantra; it's a requirement for secure and maintainable systems.
 
-## 🌱 My Philosophy 
+---
 
-When it comes to hiring, I've learned that it's a bit like gardening: plant the right seeds, tend to them, and watch them grow. 
+### 🤝 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yatintaluja/)
+- 🌐 [Moksh Ved](https://mokshved.com) (Coming Soon)
 
-I'm currently nurturing Atlan's seven pillars of Platform Engineering. My aim is to build a team that feels like a rock band - each member in perfect sync, creating a symphony of solutions for developers. 🎵
-
-## 🌟 My Mantra 
-
-Keep it simple, take action, and never stop learning. 
-
-## 🌍 My Dream 
-
-In my quieter moments, I ponder about sustainable development and how we can code a better future for our planet. 
-
-## 👀 What's Next? 
-
-I'm just another engineer trying to make a difference. I'm excited about connecting, sharing, and learning with the GitHub community! 🤝
-
-Feel free to reach out to me if you want to collaborate, need guidance, or just want to chat about tech and sustainability! 😊
+"Truth is the ultimate optimisation."
